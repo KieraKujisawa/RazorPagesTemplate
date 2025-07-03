@@ -1,5 +1,11 @@
+# ignore hidden Visual Studio Folder
 .vs
+# ignore user configuration for project
 *.user
 
+# Ignore Client-Side library folder
+lib/
+
+# ignore binaries
 bin/
 obj/
